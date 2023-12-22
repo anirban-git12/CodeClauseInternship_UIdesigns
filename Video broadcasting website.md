@@ -1,10 +1,7 @@
 <h1>Video broadcasting website</h1>
 <h2>This is A GOLDEN PROJECT of the Internship where I created an INTERACTIVE and RESPONSIVE UI/UX design on Figma. Click on the link below to Experience it</h2>
-<br>
 <h3>-Clicking on The Navigation tabs redirects to the particular part of the page</h3>
-<br>
 <h3>-Hovering Over the Movie Slides shows the Movie Details</h3>
-<br>
 <h3>-Clicking on WATCH NOW redirects to external Sites</h3>
 <br>
 <h4>https://www.figma.com/proto/cIFvXkllw1YHXvLqLAFsrY/Untitled?node-id=1-2&starting-point-node-id=1%3A2</h4>
